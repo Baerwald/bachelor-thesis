@@ -1,1 +1,2 @@
-# bachelor-thesis
+## bachelor thesis
+This repository serves as the central hub for the storage of all the data utilized in my bachelor's thesis: "Concept, construction, and implementation of a production process for air filter mats based of moss." The thesis focuses on the design and construction of a semi-automated process for producing moss mats. If you have any questions, please feel free to reach out to me at k.j.baerwald [at] gmail [dot] com.
