@@ -1,7 +1,7 @@
 task: classify
 mode: train
 model: yolov8m-cls.pt
-data: E:/Desktop/Bachelorarbeit/Modell2
+data: E:/Desktop/Bachelorarbeit/Model
 epochs: 1000
 patience: 50
 batch: 16
